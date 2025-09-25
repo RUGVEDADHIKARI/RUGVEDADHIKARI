@@ -1,15 +1,15 @@
-# Hi, I’m Rug 👋  
+# Hi, I’m Rugved 👋  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rugvedadhikari&color=blueviolet)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rugved-adhikari)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=flat)](#)  
-[![Gmail](https://img.shields.io/badge/Email-rugvedadhikari2003%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:rugvedadhikari2003@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-rugvedadhikari29@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:rugvedadhikari29@gmail.com)  
 
 ---
 
 ## 🚀 About Me  
 - 🎓 AI & ML enthusiast with strong interest in **Generative AI, Computer Vision, and Predictive Analytics**.  
-- 💡 Built intelligent systems like **context-aware chatbots, real-time detection models, and student placement prediction platforms**.  
+- 💡 Built intelligent systems like **context-aware chatbots, real-time detection models, and plant disease detection**.  
 - 🌐 Skilled in combining **Machine Learning + Full-Stack Development** to deliver impactful applications.  
 - 🏸 Outside of tech: enjoy **Badminton, Chess**, and following **Formula 1**.  
 
@@ -49,7 +49,6 @@
 - 🤖 **Contextual RAG-based Chatbot** → Multilingual AI assistant using **LangChain, FAISS, Llama models**.  
 - 🌱 **Plant Disease Detection** → Classified 38 plant disease categories with **ResNet50**.  
 - 🚗 **Vehicle Detection System** → Real-time detection & counting using **YOLOv8 + OpenCV**.  
-- 🎓 **Placement Prediction Dashboard** → Student placement chance prediction + analytics dashboard.  
 - 🧘 **Ayurveda Wellness AI** → Personalized chatbot for natural remedies & wellness tips.  
 
 ---
