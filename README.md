@@ -55,14 +55,13 @@
 
 ## 📊 GitHub Stats  
 ![Rug’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rugvedadhikari&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedadhikari&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=rugvedadhikari&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedadhikari&layout=compact&theme=tokyonight)    
 
 ---
 
 ## 🌍 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rugved-adhikari)  
-- 📧 [Email](mailto:rugvedadhikari2003@gmail.com)  
+- 📧 [Email](mailto:rugvedadhikari29@gmail.com)  
 - 🌐 Portfolio: *Coming soon*  
 
 ---
