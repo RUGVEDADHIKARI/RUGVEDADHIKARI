@@ -2,7 +2,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rugved-adhikari)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat)](https://personalwebsite1-kii0.onrender.com)  
-[![Gmail](https://img.shields.io/badge/Email-rugvedadhikari29@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:rugvedadhikari29@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:rugvedadhikari29@gmail.com)  
 
 ---
 
