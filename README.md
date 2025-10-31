@@ -59,7 +59,7 @@
 ## 🌍 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rugved-adhikari)  
 - 📧 [Email](mailto:rugvedadhikari29@gmail.com)  
-- 🌐 Portfolio: *Coming soon*  
+- 🌐 [Portfolio](https://personalwebsite1-kii0.onrender.com/)
 
 ---
 
